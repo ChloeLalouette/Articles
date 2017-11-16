@@ -1,4 +1,6 @@
-#Dis, c’est qui la championne des extinctions de masse?
+# Dis, c’est qui la championne des extinctions de masse?
+
+![image01](images/image01.png)
 
 Le dodo a disparu.
 Le tigre de Tasmanie a disparu.
