@@ -3,13 +3,18 @@
 ![image01](images/image01.png)
 
 Le dodo a disparu.
+
 Le tigre de Tasmanie a disparu.
+
 Les mammouths ont disparu.
+
 Autant d’animaux aujourd’hui éteints, que nous n’avons pour la plupart d’entre nous jamais vus autrement qu’au hasard d’un dessin, d’un fossile dans un musée, d’une photo, pour les plus récents… Et pourtant, ils nous sont étrangement familiers. Lorsque la plupart d’entre nous les évoquons, c’est avec tristesse et souvent un sentiment de perte irréparable.
 
 Et pourtant, ils ne constituent qu’une partie infinitésimale de la grande histoire des extinctions d’espèces.
 
 Combien d’entre nous savent que, il y a très, très, très longtemps, à cinq reprises, la vie sur Terre manqua de disparaître ? Que notre propre existence est le résultat d’une histoire évolutive suspendue au fil si ténu de la survie de nos lointains ancêtres durant cette succession de crises biologiques dévastatrices ?
+
+![image02](images/image02.png)
 
 L’idée de catastrophe planétaire à grande échelle était déjà venue à nos ancêtres bien avant les premières recherches scientifiques et géologiques, dans la majeure partie des peuplades, au travers de nombreuses versions du récit du Déluge.
 
@@ -18,6 +23,8 @@ Cela expliquait, aux yeux des hommes du Moyen Âge, les nombreux fossiles d’an
 L’époque était au Fixisme, qui imaginait le monde crée par Dieu comme parfait et immuable. L’idée d’espèces inconnues et qui n’existeraient plus était blasphématoire; elle allait à l’encontre de la toute puissance divine. Mais il fallait bien expliquer la présence des trilobites fossilisés trouvés par le paysan du Jura sous son champs en labourant!
 
 Au XVIIIe siècle émerge l’idée du Catastrophisme, une idéologie défendant l’idée de l’existence de grandes extinctions animales ou végétales, causées par des catastrophes naturelles ou des cataclysmes, portée par George Cuvier.
+
+![image03](images/image03.png)
 
 Grâce à Georges-Louis Leclerc de Buffon, un de ses contemporains, l’âge estimé de la Terre était désormais étendu jusqu’à presque 100 000 ans, ce qui permettait désormais de concevoir l’idée de cycles ayant affecté la vie terrestre et marine.
 
@@ -35,7 +42,9 @@ Mais même parmi les extinctions les plus massives de l’histoire de la Vie, ce
 
 Plutôt que par ordre chronologique, les voici de la moins meurtrière à la plus dévastatrice !
 
-##5ème place : Extinction Crétacé-Tertiaire (-66 millions d’années)
+![image04](images/image04.png)
+
+## 5ème place : Extinction Crétacé-Tertiaire (-66 millions d’années)
 
 - 50% des espèces
 
@@ -45,7 +54,9 @@ L’hypothèse la plus probable est celle de la chute de la météorite de Chicx
 
 La quasi-totalité des dinosaures disparaissent; seuls quelques uns de la famille des théropodes survivront, et sont encore présents de nos jours sous une nouvelle forme: il s’agit des oiseaux.
 
-##4ème place : Extinction Trias-Jurassique (-200 millions d’années)
+![image05](images/image05.png)
+
+## 4ème place : Extinction Trias-Jurassique (-200 millions d’années)
 
 - 75% des espèces marines
 
@@ -60,7 +71,9 @@ Survenue entre le Trias et le Jurassique, elle marque la fin pour 75% des espèc
 
 Ce faisant, avec la disparition d’une grande partie des archosauriens, elle ouvre la voie au règne des dinosaures qui apparaissent au Trias mais ne deviennent les maîtres de la planète qu’au Jurassique.
 
-##3ème place : Extinction du Dévonien (-360/380 millions d’années)
+![image06](images/image06.png)
+
+## 3ème place : Extinction du Dévonien (-360/380 millions d’années)
 
 - 75% des espèces
 
@@ -70,7 +83,9 @@ Le monde scientifique n’a pas encore découvert ses causes exactes, sans doute
 
 Ce sont principalement les eaux peu profondes qui sont décimées, et plusieurs familles disparaissent, comme les agnathes (poissons sans dents).
 
-##2ème place : Extinction Ordovicien-Silurien (-445 millions d’années)
+![image07](images/image07.png)
+
+## 2ème place : Extinction Ordovicien-Silurien (-445 millions d’années)
 
 - 85% des espèces
 
@@ -78,7 +93,9 @@ L’argent revient à la toute première extinction massive de notre planète, e
 
 Elle voit la disparition de plus de 85% de la faune et la flore. Il est fort probable que cela soit le résultat d’une éruption de rayons gamma dans l’espace, détruisant plus de 30% de la couche d’ozone, et causant un rayonnement ultraviolet sur Terre, suivi d’une période glaciaire ayant eu raison de la plupart des habitants de cette lointaine époque, ou toute la vie est sous-marine.
 
-##1ère place : Extinction Permien-Trias (-245/252 millions d’années)
+![image08](images/image08.png)
+
+## 1ère place : Extinction Permien-Trias (-245/252 millions d’années)
 
 - 95% des espèces
 
@@ -93,7 +110,11 @@ Nous connaissons finalement assez peu les causes réelles de ces extinctions, ma
 
 Pour chaque épisode, c’est probablement un ensemble d’éléments qui fut en cause, afin de provoquer un phénomène planétaire de réactions en chaine.
 
+![image09](images/image09.png)
+
 Mais alors, si des espèces disparaissent, ce n’est pas grave ?
+
+![image10](images/image10.png)
 
 Des espèces disparaissent en permanence, et ce depuis toujours, tandis que d’autres apparaissent. C’est un phénomène lent et continu naturel.
 
@@ -105,5 +126,7 @@ Nous portons le poids de la disparition des animaux qui nous entourent, et ce, d
 La Roue n’a jamais cessé de tourner depuis la création du monde, et elle tournera encore longtemps après notre propre disparition. Mais lorsque celle-ci aura lieu, dans quel état aurons-nous laissé le règne du Vivant ?
 
 Cette fois, la responsabilité sera la nôtre et pas celle de la main du Hasard.
+
+![image11](images/image11.png)
 
 Il faudra encore attendre pour pouvoir parler de la sixième extinction de masse avec suffisamment de recul, car si elle est en branle, nul ne sait jusqu’où elle ira, ni à quelle vitesse.
